@@ -4,3 +4,4 @@ project(IS)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Lab01 Lab01/main.cpp Lab01/classes/input.cpp Lab01/classes/astar.cpp)
+add_executable(Lab03 Lab03/main.cpp Lab03/headers/matrix.h)
